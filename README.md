@@ -41,5 +41,5 @@ Input features:
 * **Stephanie Yew**
 * **Raina Park**
 * **Hanen Su**
-* * **Melody Miao**
+* **Melody Miao**
 
